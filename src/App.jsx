@@ -4,7 +4,6 @@ import Step2 from './components/Step2';
 import Step3 from './components/Step3';
 import Success from './components/Success';
 import { ToastContainer, toast } from 'react-toastify';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import 'react-toastify/dist/ReactToastify.css';
 import './index.css';
 
